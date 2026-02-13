@@ -1,6 +1,4 @@
-# Elit Electronicts Automation Project
-
-This project automates the testing of the https://ee.ge website’s login, # Elit Electronicts Automation Project
+# DEMOQA Automation Project
 
 This project automates the testing of the https://demoqa.com/automation-practice-form website. Visually checks page loading, validates empty fields, phone number validity. 
 Fills out the authorization form and verifies that the information entered in the form popup is accurately reflected. using Playwright and POM (Page Object Model). The framework supports UI automation, and the tests are written in Java using TestNG.
