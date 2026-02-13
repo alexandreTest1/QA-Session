@@ -8,7 +8,8 @@ Fills out the authorization form and verifies that the information entered in th
 ```
 src
   /main
-    /java  - 
+    /java  -
+      /ge.tbc
       /data - Constants - Contains base URL.
         /pages - FormPage - Contains information about the addresses of elements
           /steps  - FormPageSteps - Contains page object classes for pages of the https://demoqa.com/automation-practice-form website.
